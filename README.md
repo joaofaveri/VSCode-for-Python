@@ -1,16 +1,5 @@
 <div id="top"></div>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
@@ -30,22 +19,20 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Visual Studio Code for Python Programmers" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Visual Studio Code for Python</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    Repositório com exercícios realizados a partir do livro <i>Visual Studio Code for Python Programmers</i>, de April Speight, que apresenta e explora as principais funcionalidades do VSCode com exemplos aplicáveis ao desenvolvimento com Python. O objetivo do livro é ajudar na adaptação do programador Pythn aos recursos do IDE e a desenvolver um fluxo de trabalho de desenvolvimento eficiente.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://devblogs.microsoft.com/python/">Microsoft Developer Blog (Python)</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">Relatar um Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues">Solicitar Feature</a>
   </p>
 </div>
 
